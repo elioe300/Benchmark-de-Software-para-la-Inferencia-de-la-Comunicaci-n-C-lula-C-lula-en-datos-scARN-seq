@@ -4,6 +4,8 @@ Este proyecto fue desarrollado como parte de mi Trabajo de Fin de Máster en la 
 
 En este repositorio encontrará una presentación anotado que ofrece un resumen visual para una comprensión rápida del proyecto. Si desea profundizar en los detalles, puede descargar el documento completo de mi TFM.
 
+---
+
 # Software Benchmark for Cell-Cell Communication Inference in scRNA-seq Data
 
 This project was developed as part of my Master's Thesis at the International University of Valencia.
